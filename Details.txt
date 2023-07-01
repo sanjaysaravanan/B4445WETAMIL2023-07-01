@@ -1,0 +1,39 @@
+
+Topics:
+
+  ****document object should not be even touched****
+
+  Introduction to Hook
+    Hooks: handles the re-render - Deep Dive
+    Only hooks can do re-rendering
+      state:
+        useState hook
+        values or condition that tends to change often
+          Eg:
+            Counter Application
+            Color Changer Application
+            Simple todo application
+        
+  Stateful and stateless components
+
+    Stateful: 
+      Components having state variable which changes during interactions
+    
+    Stateless:
+      Components which takes only the static data ( does not changes component at component level )
+
+Next Session:
+  props vs state
+    
+    Separating state:
+      parent level data 
+      state level data
+
+  Reusable components   
+
+  usage of keys in listing rendering
+    codesandbox
+  Components Life Cycle
+
+
+
