@@ -36,4 +36,8 @@ Next Session:
   Components Life Cycle
 
 
+Task:
+2023-07-01 - 2023-07-02:
+  Practice the Counter Component from Session
+
 
